@@ -1,0 +1,2 @@
+# Month_Function
+ DATEPART MONTH FUNCTION (26/09/2023)
